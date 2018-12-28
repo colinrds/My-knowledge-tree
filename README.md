@@ -29,6 +29,7 @@
 - [HTTP请求方法](./javascript/23.md)
 - [原型和原型链详解](./javascript/24.md)
 - [你真的会使用XMLHttpRequest吗？](./javascript/25.md)
+- [使用原生 JavaScript 构建状态管理系统](./javascript/26.md)
 
 ## NodeJS
 
@@ -62,3 +63,14 @@
 ## HTTP/HTTPS
 
 ## Other
+
+## The annual experience
+
+- [201806](./tae/201806.md)
+- [201807](./tae/201807.md)
+- [201808](./tae/201808.md)
+- [201809](./tae/201809.md)
+- [201810](./tae/201810.md)
+- [201811](./tae/201811.md)
+- [201812](./tae/201812.md)
+
