@@ -28,10 +28,20 @@
 - [常见设计模式解析](./javascript/22.md)
 - [HTTP请求方法](./javascript/23.md)
 - [原型和原型链详解](./javascript/24.md)
+- [你真的会使用XMLHttpRequest吗？](./javascript/25.md)
 
 ## NodeJS
 
+- [nodejs模块详解](./nodejs/1.md)
+- [npm包开发全过程](./nodejs/2.md)
+- [NodeJS入门之path对象](./nodejs/3.md)
+- [NodeJS入门之process对象](./nodejs/4.md)
+- [npm常用命令详解](./nodejs/5.md)
+- [七天学会NodeJS](./nodejs/6.md)
+
 ## Vue
+
+- [Vue生命周期详解](./vue/1.md)
 
 ## React
 
@@ -41,9 +51,13 @@
 
 ## Git
 
+- [30分钟git命令入门到放弃](./git/1.md)
+
 ## HTML&CSS
 
 ## Server
+
+- [Linux最常用的20条命令](./server/1.md)
 
 ## HTTP/HTTPS
 
