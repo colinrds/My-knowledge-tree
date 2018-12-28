@@ -4,6 +4,8 @@
 
 ## JavaScript
 
+- [JavaScript常用设计模式](./javascript/1.md)
+
 ## NodeJS
 
 ## Vue
