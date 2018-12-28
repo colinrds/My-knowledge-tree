@@ -22,6 +22,12 @@
 - [深度挖掘Object对象的使用](./javascript/16.md)
 - [Function操作知识总结](./javascript/17.md)
 - [原生AJAX教程大全](./javascript/18.md)
+- [数组的知识点讲解](./javascript/19.md)
+- [设计模式，Let's “Go”！](./javascript/20.md)
+- [事件机制底层实现原理](./javascript/21.md)
+- [常见设计模式解析](./javascript/22.md)
+- [HTTP请求方法](./javascript/23.md)
+- [原型和原型链详解](./javascript/24.md)
 
 ## NodeJS
 
